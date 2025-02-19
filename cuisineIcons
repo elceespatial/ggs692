@@ -1,0 +1,16 @@
+cuisineIcons = {
+  "Italian": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+  "Mexican": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+  "Chinese": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.svg",
+  "Japanese": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+  "French": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+  "Indian": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+  "American": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+  "Thai": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+  "Greek": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+  "Korean": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+  "Vietnamese": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+  "Spanish": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+  "German": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+  "Brazilian": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+}
