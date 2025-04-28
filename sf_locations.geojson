@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UCSF Saint Mary's Hospital",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4543,
+          37.7739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UCSF Saint Francis Hospital",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417,
+          37.7892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zuckerberg San Francisco General Hospital and Trauma Center",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.405,
+          37.7556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UCSF Benioff Children's Hospital",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3884,
+          37.764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UCSF Mission Bay Hospital",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3884,
+          37.764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "California Pacific Medical Center",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4313,
+          37.7906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UCSF Medical Center",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4549,
+          37.7579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaiser Permanente San Francisco Medical Center",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4432,
+          37.7823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CPMC Pacific Heights Outpatient Center",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433,
+          37.7924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UCSF Medical Center at Mt. Zion",
+        "type": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439,
+          37.7831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Google San Francisco",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39,
+          37.789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airbnb",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403,
+          37.7718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uber",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417,
+          37.7752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinterest",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396,
+          37.7763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patreon",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403,
+          37.7715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LinkedIn",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4,
+          37.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salesforce",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396,
+          37.7897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VISA Global Headquarters",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4,
+          37.789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wells Fargo",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4,
+          37.789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yelp",
+        "type": "Office Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4,
+          37.786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Gate Park",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4862,
+          37.7694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco Zoo",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.503,
+          37.7324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Presidio of San Francisco",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4662,
+          37.7989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Park",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.499,
+          37.784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Sutro Open Space Reserve",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.457,
+          37.759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salesforce Park",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396,
+          37.789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Merced Park",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.493,
+          37.728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John McLaren Park",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42,
+          37.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Canyon Park",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443,
+          37.738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candlestick Point State Recreation Area",
+        "type": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386,
+          37.708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ida B. Wells High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418,
+          37.778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Washington High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.486,
+          37.779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raoul Wallenberg High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433,
+          37.783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abraham Lincoln High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484,
+          37.743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419,
+          37.764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John O'Connell High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415,
+          37.764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lowell High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478,
+          37.734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balboa High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447,
+          37.721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thurgood Marshall Academic High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39,
+          37.738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mission High School",
+        "type": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424,
+          37.762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exploratorium",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3986,
+          37.8014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chase Center",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3877,
+          37.768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oracle Park",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3893,
+          37.7786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PIER 39",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4098,
+          37.8087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Walt Disney Family Museum",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.458,
+          37.8014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palace of Fine Arts",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4483,
+          37.8024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Legion of Honor",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5009,
+          37.7845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghirardelli Square",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4227,
+          37.8058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coit Tower",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4058,
+          37.8024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Painted Ladies",
+        "type": "Tourist Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4325,
+          37.776
+        ]
+      }
+    }
+  ]
+}
